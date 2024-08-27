@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Projet_base_de_donnees/Locataire/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Projet_base_de_donnees/bienImmo - Copie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Projet_base_de_donnees/bienImmo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Projet_base_de_donnees/bienImmobilier/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Projet_base_de_donnees/bienImmobilier/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Projet_base_de_donnees/clients/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Projet_base_de_donnees/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Projet_base_de_donnees/reservation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Projet_base_de_donnees/serveur-registre/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Projet_base_de_donnees/serveur-registre/src/main/resources/application.yml" charset="windows-1252" />
+  </component>
+</project>

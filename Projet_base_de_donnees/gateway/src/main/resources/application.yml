@@ -1,0 +1,23 @@
+spring:
+    application:
+        name: gateway-service
+    cloud:
+        gateway:
+            routes:
+                - id: locataire-id
+                  uri: lb://locataire
+                  predicates:
+                      - Path=/locataire/**
+                - id: bienImmo-id
+                  uri: lb://bienImmo
+                  predicates:
+                      - Path=/bienImmo/**
+                - id: reservation-id
+                  uri: lb://reservation
+                  predicates:
+                      - Path=/reservation/**
+
+
+
+
+
